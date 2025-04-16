@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanshanshan
-- 👀 I’m interested in APM,Cloud Native,and so on.
+- 👀 I’m interested in APM,Cloud Native,AIGC and so on.
 - 🌱 I’m currently learning skywalking, prometheus, and so on.
 
 <!---
